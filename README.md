@@ -4,8 +4,6 @@ Modern Task Management is a responsive and user-friendly task management web app
 
 It features secure authentication, real-time task updates, and a clean dashboard interface designed for productivity.
 
-🔗 **Live Demo:** https://modern-task-management.vercel.app
-
 ---
 
 ## ✨ Features
