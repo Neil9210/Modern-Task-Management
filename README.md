@@ -1,27 +1,43 @@
 # 🚀 Modern Task Management
 
-Modern Task Management is a responsive and user-friendly task management web application that helps users organize, track, and manage daily tasks efficiently. It includes secure authentication, task tracking, and a clean dashboard interface.
+Modern Task Management is a responsive and user-friendly task management web application that helps users organize, track, and manage daily tasks efficiently.
+
+It features secure authentication, real-time task updates, and a clean dashboard interface designed for productivity.
+
+🔗 **Live Demo:** https://modern-task-management.vercel.app
 
 ---
 
-## 🌟 Features
+## ✨ Features
 
 ✅ User Authentication (Register & Login)  
 ✅ Secure session management  
 ✅ Create, edit, and delete tasks  
-✅ Task status tracking  
+✅ Task status & priority tracking  
+✅ Real-time updates & notifications  
 ✅ Protected dashboard routes  
 ✅ Profile management  
 ✅ Responsive & mobile-friendly design  
-✅ Clean and modern UI  
+✅ Clean & modern UI  
 
 ---
 
 ## 🖼️ App Preview
 
-*(Add screenshots after deployment)*
+### 🏠 Home Page
+![Home](./home.png)
 
-Dashboard | Task Manager | Profile
+### 📝 Register Page
+![Register](./register.png)
+
+### 🔐 Login Page
+![Login](./login.png)
+
+### 📊 Dashboard Overview
+![Dashboard](./dashboard.png)
+
+### 📂 Sidebar Navigation
+![Sidebar](./sidebar.png)
 
 ---
 
@@ -31,17 +47,17 @@ Dashboard | Task Manager | Profile
 - ⚛️ React + TypeScript
 - ⚡ Vite
 - 🎨 Tailwind CSS
-- 🧩 shadcn/ui components
+- 🧩 shadcn/ui
 
 ### Backend & Database
-- 🗄️ Supabase (Authentication & Database)
+- 🗄️ Supabase (Auth + Database)
 - 🔐 Row Level Security (RLS)
 
-### Tools & Libraries
+### Libraries & Tools
 - React Router
 - React Query
 - ESLint
-- Vitest
+- Toast Notifications
 
 ---
 
