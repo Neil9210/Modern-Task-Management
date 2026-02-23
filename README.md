@@ -46,3 +46,12 @@ Dashboard | Task Manager | Profile
 ---
 
 ## 📂 Project Structure
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/modern-task-management.git
+cd modern-task-management
